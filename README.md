@@ -3,7 +3,7 @@
 > 是学C差不多转C++时候写的，为了练习面向对象，但是实际上 写的不是那么面向对象
 >
 > 这是很久之前的项目了，因为太久不写C++了想回来看看然后复习一下。所以文档可能跟代码有些差错。
-![](https://github.com/FroyoRab/Battle-City/blob/master/image/%E5%9C%B0%E5%9B%BE2.jpg)
+![](https://github.com/FroyoRab/Battle-City/blob/master/image/%E5%B0%81%E9%9D%A2.jpg)
 
 ---
 
@@ -25,7 +25,7 @@
 - 通过激光来破坏黑墙
 - 通过激光来更改水/草/沙漠地形
 
-![](https://img02.sogoucdn.com/app/a/100520146/0a0bf3347c405f8054763279778e235c)
+![](https://github.com/FroyoRab/Battle-City/blob/master/image/%E5%9C%B0%E5%9B%BE2.jpg)
 
 ### 地方电脑的A星寻路算法
 
@@ -46,13 +46,14 @@
 ### 菜单做了个下拉
 
 - 就是下拉菜单，下级菜单在右边
-- ![](https://img03.sogoucdn.com/app/a/100520146/b2aa048cde49f68f11db0054e6fafd88)
+
+- ![](https://github.com/FroyoRab/Battle-City/blob/master/image/%E8%8F%9C%E5%8D%95.jpg)
 
 ### 用心做了几张地图
 
-1. ![](https://img02.sogoucdn.com/app/a/100520146/e199ee83fa2f363a7b174b4f28486be5)
-2. ![](https://img04.sogoucdn.com/app/a/100520146/2b086b20f12d0079367edf53f00dd748)
-3. ![](https://img03.sogoucdn.com/app/a/100520146/bfb1e2ba63e654f25c4c8097b0902852)
+1. ![](https://github.com/FroyoRab/Battle-City/blob/master/image/%E5%9C%B0%E5%9B%BE4.jpg)
+2. ![](https://github.com/FroyoRab/Battle-City/blob/master/image/%E5%9C%B0%E5%9B%BE5.jpg)
+3. ![](https://github.com/FroyoRab/Battle-City/blob/master/image/%E5%9C%B0%E5%9B%BE%E4%B8%89.jpg)
 
 
 
