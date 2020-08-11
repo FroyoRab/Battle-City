@@ -3,8 +3,7 @@
 > 是学C差不多转C++时候写的，为了练习面向对象，但是实际上 写的不是那么面向对象
 >
 > 这是很久之前的项目了，因为太久不写C++了想回来看看然后复习一下。所以文档可能跟代码有些差错。
-
-![](https://img01.sogoucdn.com/app/a/100520146/e78857791fe51ab8bfbcf14285e27db8)
+![](https://github.com/FroyoRab/Battle-City/blob/master/image/%E5%9C%B0%E5%9B%BE2.jpg)
 
 ---
 
