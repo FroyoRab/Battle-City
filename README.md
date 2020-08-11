@@ -4,7 +4,7 @@
 >
 > 这是很久之前的项目了，因为太久不写C++了想回来看看然后复习一下。所以文档可能跟代码有些差错。
 
-![封面](H:\15PB\Project\Tank\张志羽\运行截图\封面.jpg)
+![封面](https://img01.sogoucdn.com/app/a/100520146/e78857791fe51ab8bfbcf14285e27db8)
 
 ---
 
@@ -26,7 +26,7 @@
 - 通过激光来破坏黑墙
 - 通过激光来更改水/草/沙漠地形
 
-![地图2](H:\15PB\Project\Tank\张志羽\运行截图\地图2.jpg)
+![地图2](https://img02.sogoucdn.com/app/a/100520146/0a0bf3347c405f8054763279778e235c)
 
 ### 地方电脑的A星寻路算法
 
@@ -47,14 +47,13 @@
 ### 菜单做了个下拉
 
 - 就是下拉菜单，下级菜单在右边
-- ![菜单](H:\15PB\Project\Tank\张志羽\运行截图\菜单.jpg)
+- ![菜单](https://img03.sogoucdn.com/app/a/100520146/b2aa048cde49f68f11db0054e6fafd88)
 
 ### 用心做了几张地图
 
-1. ![地图2](H:\15PB\Project\Tank\张志羽\运行截图\地图2.jpg)
-2. ![地图三](H:\15PB\Project\Tank\张志羽\运行截图\地图三.jpg)
-3. ![地图4](H:\15PB\Project\Tank\张志羽\运行截图\地图4.jpg)
-4. ![地图5](H:\15PB\Project\Tank\张志羽\运行截图\地图5.jpg)
+1. ![地图2](https://img02.sogoucdn.com/app/a/100520146/e199ee83fa2f363a7b174b4f28486be5)
+2. ![地图三](https://img04.sogoucdn.com/app/a/100520146/2b086b20f12d0079367edf53f00dd748)
+3. ![地图4](https://img03.sogoucdn.com/app/a/100520146/bfb1e2ba63e654f25c4c8097b0902852)
 
 
 
